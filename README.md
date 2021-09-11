@@ -2,7 +2,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jks08" alt="Jks08" /></a> </p>
 
-Learner and enthusiast in every aspect of the techno-business world with a keen interest in Artificial Intelligence. Beginner Data Analyst, because Data is of utmost importance. Always eager to learn about new technologies and grab new skills. Love to modify and try to come up with good neural networks. 
+Enthusiast in every aspect of the techno-business world with a keen interest in Artificial Intelligence. Beginner Data Analyst, because Data is of utmost importance. Always eager to learn about new technologies and grab new skills. Love to modify and try to come up with good neural networks. 
 
 
 - 🌱 I’m currently learning **Simulation and modeling using Jupyter** to analyse and predict natural phenomenons 
