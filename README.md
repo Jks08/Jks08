@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm <a href="https://www.linkedin.com/in/jishnu-srivastava-75950918b/"> Jishnu Srivastava </a></h1>
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;">, I'm <a href="https://www.linkedin.com/in/jishnu-srivastava/"> Jishnu Srivastava </a></h1>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jks08" alt="Jks08" /></a> </p>
 
@@ -57,4 +57,4 @@ Enthusiast in every aspect of the techno-business world with a keen interest in 
 </table>
 
 [instagram]: https://www.instagram.com/jks0831/
-[linkedin]: https://www.linkedin.com/in/jishnu-srivastava-75950918b
+[linkedin]: https://www.linkedin.com/in/jishnu-srivastava
