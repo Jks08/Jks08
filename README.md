@@ -7,7 +7,7 @@ Learner and enthusiast in every aspect of the techno-business world with a keen 
 
 - 🌱 I’m currently learning **Simulation and modeling using Jupyter** to analyse and predict natural phenomenons 
 
-- 👯 I’m looking to collaborate on **Neural Networks and Deep Learning Projets**
+- 👯 I’m looking to collaborate on **Neural Networks and Deep Learning Projects**
 
 - 📫 Reach me at: **srivastavajishnu.31@gmail.com** or **jisheras31@gmail.com**
 
@@ -52,7 +52,7 @@ Learner and enthusiast in every aspect of the techno-business world with a keen 
 <table>
   <tr>
     <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Jks08/count.svg" alt="vistor count" height="30" /></td>
+    <td><img src="https://profile-counter.glitch.me/Jks08/count.svg" alt="visitor count" height="30" /></td>
   </tr>
 </table>
 
