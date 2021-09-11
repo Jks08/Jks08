@@ -14,7 +14,7 @@ Learner and enthusiast in every aspect of the techno-business world with a keen 
 - ⚡ Fun fact **Neural Networks are NOT even close to the human brain**
 
 - ⚡ 0⭐ at <a href="https://www.codechef.com/users/jks0831">CodeChef</a>
-- 
+
 ### Connect with me:
 
 [<img align="left" alt="LinkedIn" width="80px" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />][linkedin]
