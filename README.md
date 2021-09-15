@@ -5,7 +5,7 @@
 Enthusiast in every aspect of the techno-business world with a keen interest in Artificial Intelligence. Beginner Data Analyst, because Data is of utmost importance. Always eager to learn about new technologies and grab new skills. Love to modify and try to come up with good neural networks. 
 
 - ⚡ 2⭐ at <a href="https://www.codechef.com/users/jks0831">CodeChef</a>
-- 
+
 - 🌱 I’m currently learning **Hyperparameters and tuning them** to build better ML models 
 
 - 👯 I’m looking to collaborate on **Neural Networks and Deep Learning Projects**
