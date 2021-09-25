@@ -50,12 +50,6 @@ Enthusiast in every aspect of the techno-business world with a keen interest in 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jks08" alt="Jks08" /></a> </p>
 </p>
 
-<table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Jks08/count.svg" alt="visitor count" height="30" /></td>
-  </tr>
-</table>
 
 [instagram]: https://www.instagram.com/jks0831/
 [linkedin]: https://www.linkedin.com/in/jishnu-srivastava
