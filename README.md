@@ -8,7 +8,7 @@ Enthusiast in every aspect of the techno-business world with a keen interest in 
 
 - 🌱 I’m currently learning **Hyperparameters and tuning them** to build better ML models 
 
-- 👯 I’m looking to collaborate on **Neural Networks and Deep Learning Projects**
+- 👯 I’m looking to collaborate on **Neural Networks and Machine Learning Projects**
 
 - 📫 Reach me at: **srivastavajishnu.31@gmail.com** or **jisheras31@gmail.com**
 
