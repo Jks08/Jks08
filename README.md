@@ -46,9 +46,9 @@ Enthusiast in every aspect of the techno-business world with a keen interest in 
 ### Statistics:
 
 <p align="center"> 
-  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=Jks08&show_icons=true&theme=dark" alt="Stats" />
-  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Jks08&theme=dark" alt="Stats" />
-  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jks08&layout=compact&theme=dark" alt="Stats">
+  <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=Jks08&show_icons=true&theme=dracul" alt="Stats" />
+  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=Jks08&theme=dracul" alt="Stats" />
+  <img align="center" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jks08&layout=compact" alt="Stats">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jks08" alt="Jks08" /></a> </p>
 </p>
 
