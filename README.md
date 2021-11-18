@@ -11,7 +11,7 @@ Enthusiast in every aspect of the techno-business world with a keen interest in 
 
 - 📫 Reach me at: **srivastavajishnu.31@gmail.com** or **jisheras31@gmail.com**
 
-- ⚡ Fun fact **Neural Networks are NOT even close to the human brain**
+- ⚡ Fun fact **Neural Networks are NOT even close to immitating the human brain**
 
 
 ### Connect with me:
