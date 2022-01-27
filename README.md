@@ -51,7 +51,7 @@ Enthusiast in every aspect of the techno-business world with a keen interest in 
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jks08" alt="Jks08" /></a> </p>
 </p>
 
-![Jishnu's github activity graph](https://activity-graph.herokuapp.com/graph?username=jks08&theme=react-dark)
+<? ![Jishnu's github activity graph](https://activity-graph.herokuapp.com/graph?username=jks08&theme=react-dark) ?>
 
 [instagram]: https://www.instagram.com/jks0831/
 [linkedin]: https://www.linkedin.com/in/jishnu-srivastava
