@@ -5,7 +5,7 @@
 Enthusiast in every aspect of the techno-business world with a keen interest in Artificial Intelligence. Beginner Data Analyst, because Data is of utmost importance. Always eager to learn about new technologies and grab new skills. Love to modify and try to come up with good neural networks. 
 
 
-- 🌱 I’m currently working on a full stack **ML model webapp**! 
+- 🌱 I’m currently working on a full stack **ML Webapp**! 
 
 - 👯 I’m looking to collaborate on **Neural Networks and Machine Learning Projects**
 
