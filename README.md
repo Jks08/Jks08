@@ -1,5 +1,5 @@
-<h1 align="center">Hello, <a href="https://www.linkedin.com/in/jishnu-srivastava/"> Jishnu Srivastava</a> here!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;"></a></h1>
-
+<h1 align="center">Hello, <a href="https://www.linkedin.com/in/jishnu-srivastava/"> Jishnu Srivastava</a> here!<img </a></h1>
+<? src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" height="40px" style="max-width:100%;"> ?>
 
 
 Enthusiast in every aspect of the techno-business world with a keen interest in Artificial Intelligence. Data Analyst, with a firm belief: Data is of utmost importance. Always eager to learn about new technologies and grab new skills. Love to modify and try to come up with good neural networks. 
