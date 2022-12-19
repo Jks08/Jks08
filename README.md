@@ -5,11 +5,11 @@
 Enthusiast in every aspect of the techno-business world with a keen interest in Artificial Intelligence. Data Analyst, with a firm belief: Data is of utmost importance. Always eager to learn about new technologies and grab new skills. Love to modify and try to come up with good neural networks. 
 
 
-- 🌱 I’m currently working on a full stack **ML Webapp**! 
+- 🌱 I’m currently working on automating tasks using python! 
 
 - 👯 I’m looking to collaborate on **Neural Networks and Machine Learning Projects**
 
-- 📫 Reach me at: **srivastavajishnu.31@gmail.com** or **jisheras31@gmail.com**
+- 📫 Reach me at: **srivastavajishnu.31@gmail.com** 
 
 - ⚡ Fun fact **Neural Networks are NOT even close to immitating the human brain**
 
